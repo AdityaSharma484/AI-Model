@@ -44,18 +44,6 @@ cd Expense-Validation-AI
 python expense_validation.py
 ```
 
-## **File Structure**
-
-```
-Expense-Validation-AI/
-│── dataset/                     # Contains sample invoices
-│── models/                      # Pretrained AI models
-│── scripts/                     # Utility scripts
-│── expense_validation.py        # Main processing script
-│── requirements.txt             # Required Python packages
-│── README.md                    # Project documentation
-```
-
 ## **How It Works**
 
 1. **Upload invoices** (PDFs or images) into the system.
