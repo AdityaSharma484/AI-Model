@@ -31,17 +31,10 @@ pip install tensorflow opencv-python pytesseract pandas numpy pdf2image
 sudo apt-get install tesseract-ocr poppler-utils
 ```
 
-### **2. Clone the Repository**
+### **2. Run the Application**
 
 ```bash
-git clone <repository_link>
-cd Expense-Validation-AI
-```
-
-### **3. Run the Application**
-
-```bash
-python expense_validation.py
+python main.py
 ```
 
 ## **How It Works**
