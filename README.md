@@ -36,6 +36,7 @@ sudo apt-get install tesseract-ocr poppler-utils
 ```bash
 python main.py
 ```
+Make sure Tesseract OCR is correctly installed and added to your system path.
 
 ## **How It Works**
 
